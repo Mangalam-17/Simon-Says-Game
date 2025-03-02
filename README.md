@@ -5,11 +5,15 @@ This repository contains the source code for Simon Says Game website.
 
 ## Acknowledgements
 
-* [MDN WebDocs]: For providing helpful tutorials and code examples that were instrumental in building this portfolio.  (https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [MDN WebDocs] for HTML : For providing helpful tutorials and code examples that were instrumental in building this portfolio.  (https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+* [MDN WebDocs] for CSS : For providing helpful tutorials and code examples that were instrumental in building this portfolio.  (https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+* [MDN WebDocs] for Javascript : For providing helpful tutorials and code examples that were instrumental in building this portfolio.  (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Usage/Examples
 
-# This HTML code creates a simple, single-page website showcasing the structure : 
+# This HTML code creates a simple, single-page showcasing the structure : 
 
 1. Giving prior heading 
 2. Heading for the instructions related to the starting of the game
@@ -17,13 +21,13 @@ This repository contains the source code for Simon Says Game website.
 4. Inside each of the divs, there are pair of buttons
 5. At the end, added a footer
 
-# This CSS code creates a simple, single-page portfolio website showcasing my information.  It includes sections for:
+# This CSS code creates a simple, single-page showcasing styling . It includes codes for:
 
 1. Applied style on each of the individual elements accordingly 
 2. Giving color to flash action of the game
 3. Separating different flashes basically game flash and userflash
 
-# This JavaScript code creates a simple, single-page portfolio website showcasing my information.  It includes sections for:
+# This JavaScript code creates a simple, single-page. It includes codes for:
 
 1. Using query selector, selecting the required element which is at first heading showcasing intro.
 2. Defined function to work according to some keypress basically an event
@@ -34,7 +38,5 @@ This repository contains the source code for Simon Says Game website.
 
 
 ## Demo
-
-Insert gif or link to demo
 
 Live - https://mangalam-17.github.io/Simon-Says-Game/
